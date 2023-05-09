@@ -3,13 +3,6 @@ body{
      margin: 0;
      border: 0;
 }
-header{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    background-image: linear-gradient(white,#0B1666);
-    height: 25%;
-}
 .containerMain{
     display: flex;
     justify-content: center;

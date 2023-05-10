@@ -1,0 +1,6 @@
+body{
+     background-color: #cccccc;
+     background-image: linear-gradient(to right,#f4f4f4 50%, rgba(0, 0, 255, 0.349));
+     margin: 0;
+     padding: 0;
+}

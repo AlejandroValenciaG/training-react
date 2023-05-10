@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap");
+
+.containerMain {
+  display: flex;
+  justify-content: center;
+  margin: 3%;
+  padding: 0%;
+}
+.main {
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.87);
+  box-shadow: 3px 5px 5px rgba(0, 0, 0, 0.326);
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  height: 60vh;
+  padding: 0%;
+  width: 300px;
+}
+.titleLogin {
+  color: rgba(32, 31, 31, 0.88);
+  font-size: 35px;
+  margin-bottom: 20%;
+}
+.input {
+  border: none;
+  background-color: rgba(0, 0, 0, 0.085);
+  box-shadow: 1px 2px rgba(0, 0, 0, 0.087);
+  border-radius: 10px;
+  font-family: "Libre Baskerville", serif;
+  font-size: 14px;
+  height: 50%;
+  margin: 10px;
+  padding-left: 15px;
+  width: 80%;
+}
+.input:focus {
+  background-color: white;
+  outline: none;
+}
+
+.forgotPassword {
+  color: black;
+  margin-bottom: 30px;
+}
+
+.forgotPassword:hover {
+  color: #2840f0;
+}
+.sigIng {
+  background-color: blue;
+  border: 1px solid white;
+  border-radius: 10px;
+  color: white;
+  height: 40%;
+  margin-top: 10%;
+  width: 40%;
+}
+.sigIng:hover {
+  background-color: rgb(154, 149, 149);
+  border: none;
+  box-shadow: 1px 2px 2px rgba(0, 0, 0, 0.087);
+  height: 42%;
+  width: 42%;
+}

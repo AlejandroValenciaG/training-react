@@ -1,0 +1,12 @@
+.containerHeader {
+  align-items: center;
+  background-color: white;
+  color: rgba(32, 31, 31, 0.797);
+  display: flex;
+  justify-content: start;
+  height: 25%;
+  padding-left: 15px;
+}
+.titleHeader {
+  color: rgba(32, 31, 31, 0.797);
+}

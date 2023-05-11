@@ -1,0 +1,15 @@
+.containerNav {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.menu {
+  display: flex;
+  list-style: none;
+}
+.menu .NavLi {
+  font-size: 20px;
+  margin-right: 12px;
+  padding: 10px;
+}
